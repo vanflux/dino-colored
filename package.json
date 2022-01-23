@@ -1,0 +1,26 @@
+{
+  "name": "dino-colored",
+  "version": "1.0.0",
+  "description": "Mod to make dino(chrome) colored.",
+  "main": "gen-script.js",
+  "scripts": {
+    "start": "node gen-script.js",
+    "dev": "nodemon --ignore script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanflux/dino-colored.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanflux/dino-colored/issues"
+  },
+  "homepage": "https://github.com/vanflux/dino-colored#readme",
+  "dependencies": {
+    "image-data-uri": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
