@@ -92,7 +92,7 @@ function script() {
   // Bypass gameover
   //detour('gameOver', () => console.log('Gameover call prevented...'));
   removeOutlineStyle();
-  changeLightBgColor('{__LIGHT_BG_COLOR}');
+  changeLightBgColor('{__LIGHT_BG_COLOR__}');
   changeDarkBgColor('{__DARK_BG_COLOR__}');
   changeTextures('{__TEX_ENCODED_DATA__}');
 }
