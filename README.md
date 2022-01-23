@@ -4,8 +4,8 @@ Dino, but colored...
 
 ## How to use
 
-- Copy the content of `script.js` file
-- Open [chrome://dino/](chrome://dino/)
+- Copy the content of [script.js](https://raw.githubusercontent.com/vanflux/dino-colored/main/script.js) file
+- Open [chrome://dino](chrome://dino)
 - Open devtools (press F12)
 - Paste the copied content on console and hit enter.
 - Enjoy the colors
